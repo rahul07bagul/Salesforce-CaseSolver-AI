@@ -33,20 +33,6 @@ The current implementation demonstrates the system using:
 - Flask server for API endpoints
 - LWC component integration in Salesforce
 
-## Architecture
-```bash
-┌─────────────┐     ┌───────────────┐     ┌──────────────────┐
-│  Salesforce │     │ Flask Server  │     │  Vector Database │
-│  LWC        │────▶│ /get_resolution│────▶│  (ChromaDB)      │
-│  Component  │◀────│               │◀────│                  │
-└─────────────┘     └───────────────┘     └──────────────────┘
-                            │                      ▲
-                            ▼                      │
-                    ┌──────────────┐       ┌──────────────┐
-                    │ AI Model     │       │ Knowledge    │
-                    │ (Gemini)     │       │ Articles     │
-                    └──────────────┘       └──────────────┘
-```
 ## Installation
 Prerequisites
 - Python 3.8+
