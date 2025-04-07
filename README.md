@@ -44,7 +44,7 @@ Prerequisites
 ## Backend Setup
 1. Setup
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/rahul07bagul/Salesforce-CaseSolver-AI.git
 cd python_server
 pip install -r requirements.txt
 ```
