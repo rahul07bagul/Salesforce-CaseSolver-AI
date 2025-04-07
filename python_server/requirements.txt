@@ -1,0 +1,15 @@
+bcrypt==4.3.0
+beautifulsoup4==4.13.3
+Flask==3.1.0
+flask-cors==5.0.1
+google==3.0.0
+google-genai==1.9.0
+langchain==0.3.23
+langchain-chroma==0.2.2
+langchain-community==0.3.21
+langchain-openai==0.3.12
+langchain-text-splitters==0.3.8
+pymongo==4.11.3
+PyMuPDF==1.25.5
+PyPDF2==3.0.1
+python-dotenv==1.1.0

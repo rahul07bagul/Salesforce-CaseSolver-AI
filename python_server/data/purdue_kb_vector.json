@@ -1,0 +1,407 @@
+[
+  {
+    "id": "purdue-kb-498",
+    "text": "Title: ArticleDet?ID=498 Overview: Instructions to configure an iPhone or other iOS device for the College of Agriculture's AgIT VPN. Instructions: NOTE: VPN connections are only supported using the Cisco AnyConnect app and logged in using 2-factor authentication. To configure your iPhone (or other iOS device) to connect to AgIT's VPN, please follow the steps below. Open the 'App Store'. Search for 'Cisco AnyConnect'. Install and open the 'AnyConnect' app. Allow Any Connect to ad VPN configurations. Tap 'Connections'. Tap 'Add VPN Connection. Tap in the 'Server Address' field and type 'webvpn.purdue.edu' in the field. NOTE: Capitalization matters with the server address. Tap 'Done'. Tap 'Allow'. If requested, input your iOS device pin code or use Touch ID by holding your finger on the home button. Select the AnyConnect VPN switch. Enter your username and password. Authorize the 'Login request'. Press the 'Home' button to return to home screen. Tap the 'AnyConnect' app. Tap 'Connections'. Tap the 'i' to the right of 'webvpn.purdue.edu/Ag-General'. Tap 'Delete VPN Connection'. Now when opening AnyConnection, select 'Ag- (Default) Purdue Only Traffic' and tap the AnyConnect VPN switch. Once connected, a small \"VPN\" icon will appear next to the battery icon. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=498",
+      "title": "ArticleDet?ID=498",
+      "article_id": "498"
+    }
+  },
+  {
+    "id": "purdue-kb-499",
+    "text": "Title: ArticleDet?ID=499 Overview: Instructions to configure an Android phone for the College of Agriculture's AgIT VPN. Instructions: Download \"Cisco AnyConnect\" app from the Google Play store. Accept the EULA terms and conditions Allow the app to make phonecalls. NOTE: The app does not make phonecalls. Open the 'AnyConnect' app and tap 'Connection'. Tap 'Add New VPN Connection...\" In the 'Description' field, type 'PurdueVPN'. In the 'Server Address' field, type 'webvpn.purdue.edu/Ag-General' and tap 'OK'. NOTE: Capitalization matters with the server address. Tap 'Done.' Slide the 'AnyConnect VPN' slider to the right to turn it on. Enter your career account username and BoilerKey password (2-factor - [password,push OR password,code OR PIN,push OR PIN,code]) in the fields as appropriate and tap 'Connect'. A dialogue saying 'Allow Connection' may pop-up. If desiring to allow this connection, tap 'OK'. Connected should now appear under the 'AnyConnect VPN' slider. To disconnect, simply slide the 'AnyConnect VPN' slider back to the left. Troubleshooting NOTE: The buttons and selections may vary slightly between versions of Android operating systems, but the settings will remain the same. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=499",
+      "title": "ArticleDet?ID=499",
+      "article_id": "499"
+    }
+  },
+  {
+    "id": "purdue-kb-417",
+    "text": "Title: ArticleDet?ID=417 Overview: The MySQL server (mydb.ics.purdue.edu) does not provide shell access. If you try to telnet, rlogin, or ssh to mydb.ics.purdue.edu, it will be rejected. The only type of shell access is provided by the command mysql on a unix host such as guru, or if you have your own copy on another host. Even then, it must originate from a host in the .purdue.edu domain. Instructions: Information on accessing your MySQL database from expert or mentor can be found in the article How do I log into my Purdue MySQL account? . Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=417",
+      "title": "ArticleDet?ID=417",
+      "article_id": "417"
+    }
+  },
+  {
+    "id": "purdue-kb-311",
+    "text": "Title: ArticleDet?ID=311 Instructions: Go to: https://risque.itap.purdue.edu/ Click on \"Reports\" Click on \"Data PIC Report\" and select a building name from the drop down list If you know the exact name of the PIC ID, you can put that into the PIC ID field (ex: MSEE-130A-A) If the PIC has a speed associated with it, then that means it is ACTIVE . If the \"speed\" field is empty , the PIC is NOT ACTIVE . If a PIC does not exist within Risque (but physically exists in a building) you can submit a Work Assignment to add it to Risque To gain access to the site, please go to Risque and click on the 'Request Additional Permissions' link. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=311",
+      "title": "ArticleDet?ID=311",
+      "article_id": "311"
+    }
+  },
+  {
+    "id": "purdue-kb-763",
+    "text": "Title: ArticleDet?ID=763 Overview: This article is intended to assist individuals who access the URHome portal and have the incorrect residence hall listed as their assigned residence. The URHome network allows students to connect their devices, such as gaming devices, within the residence halls they are assigned to in StarRez. Students will not be able to connect devices to URHome outside of their assigned residence hall. Note: Purdue IT can not modify housing assignments in URHome. This information is populated based on University Residence assignments in StarRez. For more information on URHome, please see: What is URHome? Instructions: To modify your housing assignment in URHome please get in touch with the University Residence Central Assignment Office at: Phone: 765-494-1000 Email: housing@purdue.edu In Person: 1225 Third Street (Smalley Center) West Lafayette, IN. 47907 Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=763",
+      "title": "ArticleDet?ID=763",
+      "article_id": "763"
+    }
+  },
+  {
+    "id": "purdue-kb-400",
+    "text": "Title: ArticleDet?ID=400 Overview: SecureW2 is Purdue’s method of quickly and easily configuring devices to connect to our Wi-Fi network. While you still will use your Purdue career account to authenticate into campus Wi-Fi, SecureW2 allows you to configure your device prior to coming onto campus, so you’ll be ready to go the moment you arrive. The SecureW2 landing page should automatically detect the correct installer for your device. However, you may override the detected Operating System by the drop-down box or try the “Non-specific OS” option if your device type is not listed. Instructions: See this video for a sample walk through of configuring a Windows device: https://www.securew2.com/wp-content/uploads/2021/04/Windows.mp4 Click a link below to select either PAL 3.0 or EduRoam on the appropriate campus. West Lafayette campus Purdue Fort Wayne campus Purdue Northwest campus ​​​​​​​ Then, once a wireless option is selected: Click ‘configure device’ In the ‘select your device type' list, select your device type. Click ‘JoinNow’ Download the setup file when prompted, and note the download location Open the installer file If a security warning pops up, press ‘yes’ or ‘run’ to continue Enter your Purdue account credentials Once you see the progress message ‘Joined’, press ‘done’ to close the program NOTE : If you are not currently on campus, you will not see this message You are now configured to connect to Wi-Fi either PAL3.0 or Eduroam on Purdue’s campus, and can verify your connection when you arrive in your Wi-Fi settings Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=400",
+      "title": "ArticleDet?ID=400",
+      "article_id": "400"
+    }
+  },
+  {
+    "id": "purdue-kb-457",
+    "text": "Title: ArticleDet?ID=457 Overview: Wireless networks on all three Purdue campuses are available for students, faculty and staff using the SecureW2 configuration tool for each campus. To get started, click the link for the appropriate campus below.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=457",
+      "title": "ArticleDet?ID=457",
+      "article_id": "457"
+    }
+  },
+  {
+    "id": "purdue-kb-312",
+    "text": "Title: ArticleDet?ID=312 Overview: Several processes for setup or troubleshooting of your personal webspace will require you to connect to the webspace server using a SSH Client. Please see the directions below for connecting and running commands on the server. NOTE: If you are on a PERSONAL MACHINE, or connecting from OUTSIDE THE PURDUE NETWORK, you must connect to Purdue's VPN BEFORE trying to connect to the server via SSH (Search: How do I connect to the Purdue VPN?) From a Windows machine NOTE: SecureCRT can be accessed on all Purdue IT lab computers by opening the 'Start' menu and selecting ' Programs', followed by 'Standard Software', followed by 'Telecommunications', and finally launching SecureCRT. NOTE: If you are NOT on a Purdue IT lab computer, you can also download SecureCRT for free through Purdue IT Software Distribution on Purdue's CommunityHub in the \"Antivirus & Security Software\" category. The software download will include the software license in the install package folder. 1. Open the 'SecureCRT' client, and click the 'Quick Connect' icon. 2. In the 'Quick Connect' window, enter in the following information and click on the 'Connect' button: Protocol: select 'SSH2' from the drop-down box. Hostname: enter 'mace.itap.purdue.edu'. Port: verify that the entry reads '22'. Firewall: verify that 'None' is selected from the drop-down box. Username: enter the proper Purdue career account credential 3. If a 'New Host Key' window appears, click 'Accept & Save'. 4. Enter the proper Purdue Career account credentials. 5. At the prompt, type the desired command, and press Enter From a Mac 1. Open the Mac OS X Terminal by opening a 'Finder' window, and then navigating to the 'Applications' folder and opening the 'Utilities' folder. 2. At the command prompt, type the following command and press the 'Enter' key. 'ssh username@mace.itap.purdue.edu' where 'username' is the proper career account credential. For example, if the career account username is jpublic, then the proper command would be 'ssh jpublic@mace.itap.purdue.edu'. 3. If this is the first time that this account has been connected to the web server, a prompt will appear for trusting the server. Type 'Yes', and press the 'Enter' key. 4. Enter the proper career account credentials when prompted. 5. A list of commands will be presented as the connection to the web server is successful. 6. You may now enter the desired command. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=312",
+      "title": "ArticleDet?ID=312",
+      "article_id": "312"
+    }
+  },
+  {
+    "id": "purdue-kb-384",
+    "text": "Title: ArticleDet?ID=384 Overview: A Virtual Private Network , or VPN, is used to allow authorized computers access to a central server remotely. Purdue students, staff, and faculty may use a VPN for several reasons: accessing course materials you might not otherwise be able to access from home, mapping the Home Directory Drive, and other networking purposes. For more detailed explanation of the Purdue VPN, please visit https://it.purdue.edu/services/vpn.php . Purdue Northwest: For information on connecting to the Purdue Northwest VPN, see \" How to connect to the Purdue Northwest VPN (virtual private network) .\" Purdue Fort Wayne: For information on connecting to the Purdue Fort Wayne VPN, see \" How to connect to the Purdue Fort Wayne VPN (virtual private network) .\"",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=384",
+      "title": "ArticleDet?ID=384",
+      "article_id": "384"
+    }
+  },
+  {
+    "id": "purdue-kb-221",
+    "text": "Title: ArticleDet?ID=221 Overview: This article includes information on downloading and installing the Cisco Secure Client to various operating systems. See \" How do I connect to the West Lafayette Purdue VPN ?\" for instructions on connecting once the Secure Client application has been installed. Instructions: Note: the login box in Secure Client will not look like the usual login box. When logging into the Purdue VPN, users will need to enter their password and then check their authentication method to approve. NOTE: The address webvpn2.purdue.edu is used for the VPN in this guide. This is the general Purdue access VPN. If webvpn2.purdue.edu is not functioning, webvpn.purdue.edu may be used instead. Additionally, your department may use a different address to reach some of their services. If you cannot access some resources related to your department, reach out to your local IT area and ask if they have a different VPN address you need to connect to in order to reach those resources. Downloading Cisco Secure Client VPN Application The easiest way to download Cisco VPN client is to navigate to webvpn.purdue.edu and sign in using your Duo Mobile MFA Sign in using your Purdue Career Account alias for your username For your password, enter either: password and approve the notification on the Duo Mobile app. Password,###### with the numbers after the comma being the 6-digit code from your Duo Mobile App The system should detect what type of OS you have (Windows, Mac, etc) and download the appropriate client Otherwise, you can follow these steps: Navigate to the URL ( https://communityhub.purdue.edu/storefront/overview ) in your web browser and login with your Purdue Career Account and password; when logg ing into the Purdue VPN, users will need to enter their password. Under the 'Online Store Homepage' header, there is a search bar; type 'Cisco Secure Client' and press 'Enter'. Select the item that is labeled as 'Cisco Secure Client for Personally Owned Computers'. Select the option that is most applicable to your computer and then click the button 'Add to cart'. NOTE: Cisco Secure Client is free to students, faculty, and staff of Purdue University. The total cost of your order should be $0.00 unless you specifically added other products. Once you have verified that the item you selected is in your account, click on the 'Checkout' button. On the 'Checkout: Notes/Comments' screen, leave the input box alone and click 'Next'. On the 'Review Your Order' screen, click the 'Place order' button. You should then be directed to a webpage confirming your order that lists the download link for your product under 'Order Summary'. Additionally, an email confirmation with download links for Cisco Secure Client will be sent to your Purdue email account. Click the download link in either of these options and then proceed with the instructions in the section below based on your computer's operating system. Installing and Launching Cisco Secure Client VPN Application Microsoft Windows After successfully downloading the Cisco Secure Client installer, navigate to the file's location, commonly located in the 'Downloads' folder accessible via the File Explorer app. Either double-click the application or right-click on the anyconnect-win-4.9.06037-core-vpn-predeploy-k9.msi option and run the installer. The installer will greet you with an install wizard. Click 'Next' to begin. In order to install and use the Cisco Secure Client application, you are required to accept the terms of license agreement. Select the 'I accept the terms in the License Agreement' option, and then click 'Next'. Click the 'Install' button, and permit Windows to install the application when the system asks for your permission. Upon successful installation, the following screen shall appear. Click the 'Finish' button to exit the installer. With the application installed, launch Cisco Secure Client via the 'Windows Search' tool. You may do this by pressing the 'Windows' button on your keyboard, or clicking the 'Windows' icon in the bottom left of your screen, and start typing your search. Once you have selected the correct application, press the 'Enter' key. You will be presented with the following screen. Enter the address 'webvpn2.purdue.edu' and then click the 'Connect' button. Cisco Secure Client will then ask for your Purdue Career account username and password. Enter them in and click 'OK'. Occasionally, Cisco Secure Client will download an update before establishing your connection. Wait for it to finish and then restart your computer if prompted. You will likely need to go through the above process again for launching and connecting to the VPN. Upon successful connection, you should be able to click on the carrot in the taskbar and find the Cisco Secure Client icon in the menu. Hover over the icon to view connection status. You can disconnect or even close the application by right-clicking on this icon and selecting the respective option.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=221",
+      "title": "ArticleDet?ID=221",
+      "article_id": "221"
+    }
+  },
+  {
+    "id": "purdue-kb-386",
+    "text": "Title: ArticleDet?ID=386 Overview: Instructions for connecting to Purdue VPN using an Android device. Note: Ensure that you follow the appropriate instructions for your campus. Each campus will have different addresses. Instructions: Download, Install, and Open the \"Cisco Secure Client-AnyConnect\" app from the Google Play store. Accept the EULA terms and conditions Allow the app to send notifications Tap 'Connections' Tap the + symbol at the bottom right corner In the 'Description field, type 'WebVPN'. For server address, choose the one that is most appropriate for your campus ( NOTE: Capitalization matters with the server address) : For Purdue West Lafayette users: Enter webvpn.purdue.edu in the description and server address of the pop-up menu. For Purdue Northwest users: Enter webvpn.pnw.edu in the description and server address of the pop-up menu. For Purdue Fort Wayne users: Enter webvpn.pfw.edu in the description and server address of the pop-up menu Tap 'Done.' Return to the Main Menu and Slide the 'AnyConnect VPN' slider to the right to turn it on. Type in your username and password. For Purdue West Lafayette and Purdue Northwest users, sign in using your Career Account and Password, which will requre Duo MFA authentication. For Purdue Fort Wayne users, sign in using your Purdue Fort Wayne username and password, which will require Microsoft MFA authentication. Approve the Duo mobile request on your Duo authenticator device You may see a pop up that says 'Connection request...' If you read this, and want to allow the connection, tap 'OK'. You should now show 'Connected' under the 'AnyConnect VPN' slider. To disconnect, simply slide the 'AnyConnect VPN' slider back to the left. Now you should show 'Disconnected.' NOTE: The buttons and selections may vary slightly between versions of Android operating systems, but the settings will remain the same. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=386",
+      "title": "ArticleDet?ID=386",
+      "article_id": "386"
+    }
+  },
+  {
+    "id": "purdue-kb-387",
+    "text": "Title: ArticleDet?ID=387 Overview: Instructions for connecting to Purdue VPN with an Apple Device. Note: Ensure that you follow the appropriate instructions for your campus. Each campus will have different addresses. Instructions: Search for Cisco Secure Client in the app store and install it: Note that the name changes when then app is downloaded onto the phone: When in the app, press on the Connections option shown on the screen: Then press on “Add VPN Connection...” For server address, choose the one that is most appropriate for your campus: For Purdue West Lafayette users: Enter webvpn.purdue.edu in the description and server address of the pop-up menu. For Purdue Northwest users: Enter webvpn.pnw.edu in the description and server address of the pop-up menu. For Purdue Fort Wayne users: Enter webvpn.pfw.edu in the description and server address of the pop-up menu. Next, go back to the home page and toggle “AnyConnect VPN.” Type in your username and password: For Purdue West Lafayette and Purdue Northwest users, sign in using your Career Account and Password, which will requre Duo MFA authentication. For Purdue Fort Wayne users, sign in using your Purdue Fort Wayne username and password, which will require Microsoft MFA authentication. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=387",
+      "title": "ArticleDet?ID=387",
+      "article_id": "387"
+    }
+  },
+  {
+    "id": "purdue-kb-432",
+    "text": "Title: ArticleDet?ID=432 Overview: URHome is a wireless network broadcast located in the residence halls. It is designed to provide a local network capable of supporting multiple personal devices with the use of a single access key. URHome should be used for gaming systems and other smart connected devices. Note : URHome uses residence hall registration information to approve device connections. Devices will only connect successfully in the residence hall a student is registered in. See How do I change my residence hall in URHome? for instructions on how to change your advertised residence hall in URHome. Instructions: To create a URHome authentication key: Visit https://purdue.campuswifi.net Review/Accept the terms and conditions and click “Continue” Sign in with two-factor SSO Arrive at the student network portal Select “Generate Password” The system will generate an access key. Note : you may view your network key by selecting the “eye” icon to the right of the password field. This will be the password you would then use to access the “URHome” network that is broadcast in the residence halls. Note: Access keys are limited to those that are automatically generated and may not be customized. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=432",
+      "title": "ArticleDet?ID=432",
+      "article_id": "432"
+    }
+  },
+  {
+    "id": "purdue-kb-768",
+    "text": "Title: ArticleDet?ID=768",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=768",
+      "title": "ArticleDet?ID=768",
+      "article_id": "768"
+    }
+  },
+  {
+    "id": "purdue-kb-467",
+    "text": "Title: ArticleDet?ID=467 Overview: Every Purdue user is allotted 5 GB of space for their career account home directory. This space is used to store files and settings used in labs, as well as store files for your personal website. If your home directory runs out of space, you won't be able to save any additional files while in the labs, and programs you are running may display errors when they cannot save settings. Instructions: To check your available quota: Go to the Purdue IT accounts page at www.purdue.edu/apps/account . Log in with your Purdue Career Account username and password. Click the link for \"Click here to check your account space\" to view your current usage. NOTE: Quota information is updated twice daily at 2PM and 2AM so recent changes may not be reflected on the accounts page. NOTE: Viewing the properties of your mapped career account home directory network drive on a computer will report incorrect quota information (usually reporting multiple terabytes free) due to the nature of the server housing the home directories. Checking your quota on the Purdue IT website is the only accurate way to view current usage. NOTE: If you are running low on space, you should consider deleting unnecessary files and/or archiving older files to other media. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=467",
+      "title": "ArticleDet?ID=467",
+      "article_id": "467"
+    }
+  },
+  {
+    "id": "purdue-kb-415",
+    "text": "Title: ArticleDet?ID=415 Overview: Instructions for logging into Purdue-affiliated MySQL accounts. Instructions: There are two ways to log into your MySQL account. You can use client software or command prompt, or by using a web browser. Client software or command prompt 1. Using an SSH client such as SecureFX or SecureCRT, or the ssh command, log in to guru.itap.purdue.edu. 2. At the prompt, type : mysql -h mydb.ics.purdue.edu -p 3. At the 'Enter password:' prompt, type the password for your MySQL account (this will not be your regular career account password). Web Browser Go to http://web.ics.purdue.edu/software/phpMyAdmin/ and enter your MySQL account and password. Other mySQL resources may be found at https://it.purdue.edu/infrastructure/database/mysql/careeraccount.php Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=415",
+      "title": "ArticleDet?ID=415",
+      "article_id": "415"
+    }
+  },
+  {
+    "id": "purdue-kb-468",
+    "text": "Title: ArticleDet?ID=468 Overview: Instructions to restore a deleted file or folder from your career account home directory or network drive. Instructions: To restore a deleted file or folder Open your career account home directory drive Navigate to the folder that used to contain the file or folder you wish to restore Right-click this folder, then click Restore previous versions If the folder was at the top-level of your home directory, right-click the home directory drive, then click Restore previous versions You'll see a list of available previous versions of the file or folder Double-click a previous version of the folder that contains the file or folder you wish to restore (Example: if a file was deleted today, chose a version of the folder from yesterday, which should contain the file) Drag the file or folder you wish to restore to another location, like your desktop, or a different folder The restored file is now available to inspect NOTE: If you don't remember the exact file or folder name, or its location, you can search for it by typing part of its name in the search box. To restore a file or folder to a previous state: Open your career account home directory drive Navigate to the folder that used to contain the file or folder you wish to restore Right-click this folder, then click Restore previous versions You'll see a list of available previous versions of the file or folder Before restoring one of these versions, select the previous version, then click Open to view and make sure it's the version you'd like to restore To restore a previous version, select the previous version, then click Restore NOTE: The file or folder replaces the current version in your home directory, and the replacement can't be undon e. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=468",
+      "title": "ArticleDet?ID=468",
+      "article_id": "468"
+    }
+  },
+  {
+    "id": "purdue-kb-416",
+    "text": "Title: ArticleDet?ID=416 Overview: Instructions for requesting a MySQL account. Instructions: Go to https://www.purdue.edu/apps/ics/a/MySQLAccount . Follow the instructions on the screen. Your MySQL account will be created on mydb.ics.purdue.edu. You can log into this account using any of several mysql clients including: The mysql command from a Unix shell (eg. guru.itap.purdue.edu, or a Mac OSX terminal window). Any of several programs for use under Windows or Mac OSX (eg. MySQL Query Browser, MySQL Workbench) available from http://dev.mysql.com/downloads/ . MS Access via the MySQL ODBC. On the web, by pointing your browser to http://web.ics.purdue.edu/software/phpMyAdmin/ . Your username will be the same as your Purdue Career Account login, although you password must be different for security reasons. To request a MySQL account for a student organization, refer to How do I obtain a MySQL account for my Student Organization? . Other MySQL resources are available at https://it.purdue.edu/infrastructure/database/mysql/careeraccount.php Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=416",
+      "title": "ArticleDet?ID=416",
+      "article_id": "416"
+    }
+  },
+  {
+    "id": "purdue-kb-159",
+    "text": "Title: ArticleDet?ID=159 Overview: This article provides a link for requesting a new physical or virtual server from Purdue IT. Instructions: Use the Qualtrics form at https://purdue.ca1.qualtrics.com/jfe/form/SV_cA39aKyHO8hrV54 . Complete the form to create a ticket that will be assigned to the Unix team. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=159",
+      "title": "ArticleDet?ID=159",
+      "article_id": "159"
+    }
+  },
+  {
+    "id": "purdue-kb-150",
+    "text": "Title: ArticleDet?ID=150 Overview: How to request a new Windows server from Purdue IT. Instructions: Use the Qualtrics form at https://purdue.ca1.qualtrics.com/jfe/form/SV_b7Kt8dQiQHGEBng . Complete the form to create a ticket that will be assigned to the Windows team. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=150",
+      "title": "ArticleDet?ID=150",
+      "article_id": "150"
+    }
+  },
+  {
+    "id": "purdue-kb-418",
+    "text": "Title: ArticleDet?ID=418 Overview: MySQL allows you to store, organize and access information in a relational database. This database can be accessed using a variety of clients. Once the account is created, you are given one, and only one database to use. The name of the database will be your username. You can create new tables within that database, but you are unable to create new databases. Instructions: Creating Accounts and Accessing Accounts How do I request a MySQL account? How do I log into my Purdue MySQL account ? General Information Can I run a shell on the MySQL server? Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=418",
+      "title": "ArticleDet?ID=418",
+      "article_id": "418"
+    }
+  },
+  {
+    "id": "purdue-kb-401",
+    "text": "Title: ArticleDet?ID=401 Overview: There are two types of wireless guests at the Purdue campus Those that are visiting and need a functioning wireless connection Those that are visiting and require access to internal Purdue resources Instructions: Visitors to the Purdue West Lafayette campus and needing an Internet connection have a pair of options, both free. AT&T wifi - This is a free connection that does not require any credentials to sign into and can be used by anyone on campus Eduroam - A secure, world-wide roaming access service developed for education and research communities. The credentials to sign into Eduroam are generally your home Universities account. To learn more about Eduroam and where it is available, please view the information at this link. - https://eduroam.org/where/ Visitors requiring access to internal Purdue resources require a faculty or staff member to request it on their behalf. Purdue faculty and staff may request AirLink account(s) for distribution to Purdue guest(s) for legitimate purposes. We are required to maintain accurate identity information for the guests who use AirLink accounts. Guest account request forms can be found here: Individual Guest Multiple Guests In general, please allow two business days for processing. Accounts for multiple-guest requests will be ready in two business days, or next business day if submitted before noon. Accounts for individual-guest requests will be ready the next business day, or same day if submitted before noon. For additional help, see: How to connect to Wi-Fi at Purdue West Lafayette How do I configure Wi-Fi on my device using SecureW2? Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=401",
+      "title": "ArticleDet?ID=401",
+      "article_id": "401"
+    }
+  },
+  {
+    "id": "purdue-kb-462",
+    "text": "Title: ArticleDet?ID=462 Overview: A Virtual Private Network , or VPN, is used to allow authorized computers access to a central server remotely. Purdue students, staff, and faculty may use a VPN for several reasons: accessing course materials you might not otherwise be able to access from home, mapping the Home Directory Drive, and other networking purposes. These instructions are for individuals at Purdue Fort Wayne (PFW) who need to connect to the VPN. There are two separate instructions for setting up and using the VPN: one for employees and one for students. Note: If you are a member of an organization, department, class, etc. that has its own VPN connection to facilitate access to resources, you may continue using that VPN and will not need to make the changes below. Note: These instructions are for PFW employees and students only. For other campuses, please visit this page . Click here for the instructions if you are a Student. Click here for the instructions if you are an Employee. Instructions: Students If you are a PFW student, you can download and install the Cisco AnyConnect client to connect to a Virtual Private Network (VPN). You may access https://webvpn.pfw.edu from a browser to download and access Cisco AnyConnect on your personal device. In case your organization or class has a custom profile, reach out to your instructor or organizational sponsor, or the ITS Help Desk at PFW for assistance with the correct configuration options. Installing Cisco AnyConnect VPN (Students) NOTE : You may need to be the administrator of your computer to install software. NOTE : Microsoft two-factor authentication is required when authenticating to the PFW VPN service. Mobile Instructions: The Cisco Secure Client is available in both the Apple App Store and Google Play Store . For iOS devices, follow these instructions. For Android devices, follow these instructions. Computer Instructions: Open your web browser (i.e. Chrome, Firefox, or Opera) and visit https://webvpn.pfw.edu/ Sign in with Purdue Fort Wayne Account credentials, requiring your Microsoft Authenticator Mobile App verification approval. Select Download for Windows on the AnyConnect Secure Mobility Client page. Once the download has been completed, navigate to that file and run it. Double-click the AnyConnect download file (cisco-secure-client-win-5.1.2.42-core-vpn-webdeploy-k9) to begin the Setup process. Select Next in the Setup Wizard. Read the End-User License Agreement and if you agree to the terms select \"I accept the terms in the License Agreement\" and then select Next Select Install. If asked to allow the application to make changes to your device, select Yes. Select Finish. Restart your computer. Locate the Cisco AnyConnect Secure Mobility Client application. (This may be in your Windows Start Menu , on your Desktop, or in your MacOS Apps Finder .) Select to open Confirm the VPN: screen shows webvpn.pfw.edu and then select Connect. If the VPN screen doesn't display webvpn.pfw.edu, then input that address. You should see a screen to complete the authentication process. Sign in with Purdue Fort Wayne Account credentials, requiring your Microsoft Authenticator Mobile App verification approval. A web browser may open verifying you have successfully authenticated. You may also receive a Windows notification you have authenticated. You can close your browser and begin using applications that require the AnyConnect VPN client. Employees If you are a PFW employee, you may already have the software installed. Search your computer (either through the start menu, or application list) for the Cisco Secure Client. If you already have the software, you can skip straight to the Configuration section below. If you do not have the software, you can download and install the Cisco AnyConnect client to connect to a Virtual Private Network (VPN) from the Software Center on your university-owned device while on-campus. Alternatively, you may access https://webvpn.pfw.edu from a browser to download and access Cisco AnyConnect on your personal device. In case your department has a custom profile, reach out to the ITS Help Desk at PFW for assistance with the correct configuration options. Installing Cisco AnyConnect VPN (Employees) NOTE : You may need to be the administrator of your computer to install software. If you do not have administrator privileges, please contact the ITS Help Desk at PFW. NOTE : Microsoft two-factor authentication is required when authenticating to the PFW VPN service. Mobile Instructions: The Cisco Secure Client is available in both the Apple App Store and Google Play Store . For iOS devices, follow these instructions. For Android devices, follow these instructions. Computer Instructions: Locate the Cisco AnyConnect Secure Mobility Client application. (This may be in your Windows Start Menu , on your Desktop, or in your MacOS Apps Finder .) Open your web browser (i.e. Chrome, Firefox, or Opera) and visit https://webvpn.pfw.edu/ Sign in with Purdue Fort Wayne Account credentials, requiring your Microsoft Authenticator Mobile App verification approval. Select Download for Windows on the AnyConnect Secure Mobility Client page. Once the download has been completed, navigate to the downloaded file, and run it. Double-click the any connect download file (cisco-secure-client-win-5.1.2.42-core-vpn-webdeploy-k9) to begin the Setup process. Select Next in the Setup Wizard. Read the End-User License Agreement and if you agree to the terms select \"I accept the terms in the License Agreement\" and then select Next Select Install. If asked to allow the application to make changes to your device, select Yes. Select Finish. Restart your computer. Locate the Cisco AnyConnect Secure Mobility Client application. (This may be in your Windows Start Menu , on your Desktop, or in your MacOS Apps Finder .) Select to open Confirm the VPN: screen shows webvpn.pfw.edu and then select Connect. a. If the VPN screen doesn't display webvpn.pfw.edu, then input that address. You should see a screen to complete the authentication process. Sign in with Purdue Fort Wayne Account credentials, requiring your Microsoft Authenticator Mobile App verification approval. A web browser may open verifying you have successfully authenticated. You may also receive a Windows notification you have authenticated. You can close your browser and begin using applications that require the AnyConnect VPN client. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=462",
+      "title": "ArticleDet?ID=462",
+      "article_id": "462"
+    }
+  },
+  {
+    "id": "purdue-kb-483",
+    "text": "Title: ArticleDet?ID=483 Overview: A virtual private network, or VPN, is used to allow authorized computers access to a central server remotely. Purdue Northwest VPN users should use the Cisco AnyConnect VPN client to establish a VPN connection. Instructions: To download and install the AnyConnect client on personal devices: Cisco AnyConnect software is available through the Purdue IT CommunityHub page. After logging in with your Purdue Login, click on the option for Antivirus and Security Software. You will see options for Cisco AnyConnect for Personally Owned Computers and Cisco AnyConnect for University Owned Computers. You will be able to choose your operating system and download the software by following the prompts. It will download a zipped folder to your computer. Unzip this folder and then install the software. If you need assistance with these directions, please contact the CSC at 219.989.2888 or via the Virtual Helpdesk. To download and install the AnyConnect client on a PNW-managed computer: Cisco AnyConnect is available on many University Owned Windows computers by going to the Microsoft Software Center on your Windows or macOS computer. To download and install the AnyConnect client on a mobile device: App Store for iPhone Play Store for Android Chrome Store for Chromebooks To connect to the PNW VPN Network using the Cisco AnyConnect client: Create a new connection to the url: webvpn.pnw.edu . (Teams that require specialized access may use a different address. That information will be communicated to that team directly.) Sign in using your career account username. The password will be your 4-digit PIN, PUSH or the 6-digit code from your Duo authenticator app. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=483",
+      "title": "ArticleDet?ID=483",
+      "article_id": "483"
+    }
+  },
+  {
+    "id": "purdue-kb-456",
+    "text": "Title: ArticleDet?ID=456 Overview: Purdue Fort Wayne has two available wireless networks, Eduroam and PAL (Purdue Air Link) 3.0. Both can be configured for your device (computer, smart phone, tablet) using the SecureW2 configuration tool linked below. To connect to the wireless network at Purdue West Lafayette, click here. Connecting to Purdue Fort Wayne wireless The Purdue Fort Wayne wireless is designed for use by Purdue Fort Wayne students, faculty, and staff. If you're visiting from another campus, you can use the eduroam. For other visitors, please contact the IT service desk at PFW by clicking the \"Purdue IT Request\" button to request a temporary wireless guest account to connect to the Visitor Purdue Fort Wayne SSID. Click here to connect to Eduroam wireless using SecureW2 Click here to connect to Purdue Fort Wayne wireless using SecureW2 Click here to connect to Purdue Northwest wireless using SecureW2 To learn more about how to connect your device using the SecureW2, see How do I configure Wi-Fi on my device using SecureW2? Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=456",
+      "title": "ArticleDet?ID=456",
+      "article_id": "456"
+    }
+  },
+  {
+    "id": "purdue-kb-482",
+    "text": "Title: ArticleDet?ID=482 Overview: Purdue Northwest has three available wireless networks: ATTWIFI, EDUROAM and PNW-Media. EDUROAM is the primary wireless network at PNW and is available to students, faculty and staff. EDUROAM is a free, secure, worldwide network developed for the international research and education community. This network provides high-speed connectivity throughout our Hammond and Westville campuses. It is a safe method for educational institutions and their users to access the Internet. ATTWIFI is a guest wireless network, intended for use by visitors and guests to PNW who are not able to use EDUROAM. (Note: Visitors from other Purdue campuses or other institutions, should use EDUROAM with their home credentials when possible. Click here for more information on EDUROAM partner organizations .) PNW-Media (or calnetmedia) is only to be used by devices unable to register for EDUROAM. Examples include gaming consoles, smart TVs, and TV addon devices (Roku, Apple TV, Chromecast, etc.). Devices able to authenticate to EDUROAM, such as mobile devices, laptops, tablets, computers, etc. should NOT be connected to CalnetMedia or PNW-Media.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=482",
+      "title": "ArticleDet?ID=482",
+      "article_id": "482"
+    }
+  },
+  {
+    "id": "purdue-kb-399",
+    "text": "Title: ArticleDet?ID=399 Overview: Purdue has two available wireless networks, Eduroam and PAL (Purdue Air Link) 3.0. Both can be configured for your device (computer, smart phone, tablet) using the SecureW2 configuration tool linked below. Instructions: Connecting to Eduroam Eduroam is a secure, world-wide roaming access service developed for the international research and education community. It allows students, researchers, and staff from participating institutions to obtain Internet connectivity across campus and when visiting other participating institutions. Click here to connect to Eduroam wireless Connecting to PAL 3.0 Purdue AirLink, known as PAL, is the secure wireless network utilized on the University’s West Lafayette campus. It connects wireless-ready laptops, smartphones and other mobile devices to the Purdue network and, through the Purdue network, to the Internet. This is the recommend wireless service for students, faculty and staff. Click here to connect to PAL 3.0 wireless For additional help, see: How do I configure Wi-Fi on my device using SecureW2? How does a guest visiting Purdue West Lafayette connect to the wireless network? Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=399",
+      "title": "ArticleDet?ID=399",
+      "article_id": "399"
+    }
+  },
+  {
+    "id": "purdue-kb-776",
+    "text": "Title: ArticleDet?ID=776 Overview: An explanation on how to log on to FS Music fileshare. Instructions: In order to access the FS Music fileshare, the following will be necessary: Go to \"File Explorer.\" 2. Go to \"Computer.\" 3. Select \"Map Network Drive.\" 4. Select any available drive letter. 5. In the \"Folder\" field, type \\\\fsmusic.ad.pfw.edu\\Music Technology Server. If you are accessing this resource from off-campus, you will first need to download and install the campus VPN software. Please refer to the following links for your computer: Windows: https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=774 Mac: https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=775 Any questions or concerns may be directed to the Purdue Fort Wayne IT Services Help Desk at Kettler Hall, room 206; (260) 481-6030; helpdesk@pfw.edu . Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=776",
+      "title": "ArticleDet?ID=776",
+      "article_id": "776"
+    }
+  },
+  {
+    "id": "purdue-kb-775",
+    "text": "Title: ArticleDet?ID=775 Overview: An explanation on how to install OpenVPN Connect for Mac. Instructions: To install OpenVPN Connect on macOS, follow these steps: Download OpenVPN Connect : Visit https://webvpn.pfw.edu/student or the OpenVPN Connect macOS installation guide and download the installer for your specific use case (e.g., OpenVPN servers , CloudConnexa , or Access Server ). Install OpenVPN Connect : Once the download completes, open the installer. Click through the installation windows. Agree to the software license agreement. If prompted, enter your Apple credentials to allow the installation. Click Close when the installation succeeds. Connect to a Server : Launch OpenVPN Connect . Enter the necessary server details (e.g., server address , username , and password ). Click Connect . Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=775",
+      "title": "ArticleDet?ID=775",
+      "article_id": "775"
+    }
+  },
+  {
+    "id": "purdue-kb-642",
+    "text": "Title: ArticleDet?ID=642 Overview: WebPrint is a service that allows students to print documents from anywhere using PaperCut, a web-based application. The document explains the steps to log into PaperCut, select a printer, enter the number of copies, upload a document, and pick up the print out. Instructions: WebPrint Note: Students can only print to a limited set of printers using these steps. Pages printed count toward your print quota. Log into goPFW . In the Information Technology channel on the Home tab, click Web Print - Students . Log into PaperCut using your Purdue Fort Wayne username and password. At the left side of the screen, click Web Print . Click Submit a Job . Select the desired printer. At the bottom of the page, click \"2. Print Options and Account Selection\" . In the Copies field, enter the desired number of copies. Up to 60 copies can be printed per submission. At the bottom of the page, click \"3. Upload Document\" . Click the Browse button. Navigate to the desired document and double-click it. Click Upload & Complete . Make sure to pick up your print out at the designated printer. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=642",
+      "title": "ArticleDet?ID=642",
+      "article_id": "642"
+    }
+  },
+  {
+    "id": "purdue-kb-774",
+    "text": "Title: ArticleDet?ID=774 Overview: An explanation on how to install OpenVPN Connect for Windows. Instructions: To install OpenVPN Connect on Windows, follow these steps: Download OpenVPN Connect : Visit https://webvpn.pfw.edu/student or the OpenVPN Connect Windows installation guide and download the installer for your specific use case (e.g., OpenVPN servers , CloudConnexa , or Access Server ). Install OpenVPN Connect : Once the download completes, open the installer. Click through the installation windows. Agree to the software license agreement. If prompted, enter your Windows credentials to allow the installation. Click Close when the installation succeeds. Connect to a Server : Launch OpenVPN Connect . Enter the necessary server details (e.g., server address , username , and password ). Click Connect . Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=774",
+      "title": "ArticleDet?ID=774",
+      "article_id": "774"
+    }
+  },
+  {
+    "id": "purdue-kb-1229",
+    "text": "Title: ArticleDet?ID=1229 Overview: A Virtual Private Network (VPN) is a technology that creates a secure and encrypted connection between your device and a remote server over the internet. This secure \"tunnel\" ensures that your online activities, such as browsing, transferring files, or accessing restricted resources, are private and protected from unauthorized access. When you connect to a VPN, your internet traffic is routed through the VPN server, masking your IP address and making it appear as though you are accessing the internet from the server's location. This provides security, privacy, and the ability to bypass geographical restrictions.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=1229",
+      "title": "ArticleDet?ID=1229",
+      "article_id": "1229"
+    }
+  },
+  {
+    "id": "purdue-kb-283",
+    "text": "Title: ArticleDet?ID=283 Overview: A PIC (Purdue Information Connection) is the physical phone and data jack wall connections to the Purdue Network on the West Lafayette campus.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=283",
+      "title": "ArticleDet?ID=283",
+      "article_id": "283"
+    }
+  },
+  {
+    "id": "purdue-kb-250",
+    "text": "Title: ArticleDet?ID=250 Overview: This article describes Purdue Box. Instructions: Box is a cloud-based file storage and collaboration service. It provides users with the ability to upload files, securely share them with others, and collaborate effectively. Purdue Box is a Purdue-managed implementation of Box tied to your Purdue email address. Who is eligible to use Purdue Box? Purdue Box licenses are available to current faculty, staff, and students of Purdue University. Do I automatically have a Purdue Box account? No. Box accounts are not created in advance. Unless your previously-existing individual account using a Purdue email address was moved to Purdue Box, you will only have a Purdue account if someone shares a file with your Purdue email address or you access Box as part of Purdue University. A Purdue Box account is created for you the first time you do this at https://purdue.box.com . Why was my individual account converted to a Purdue Box account? Purdue is implementing enterprise Box services, and accounts using a Purdue.edu address are being converted as part of that process. This is to help ensure Purdue is able to manage policy and procedure requirements correctly across the University. How do Purdue policies and procedures apply to my data in my Purdue Box account? All files saved in an account using your Purdue email address will be subject to Purdue policies and procedures, including Federal and State law where applicable. This includes any files you consider personal. Storage of restricted data in Box requires prior review by Purdue’s IT Security and Policy group. Restricted data storage in Box may also require approval from campus offices and committees responsible for contractual compliance and research regulatory affairs. NOTE: Restricted data cannot be stored in individual user folders. Controlled research data must be stored in special folder structures governed by policy. Project-specific folders will be provided for approved restricted data uses as the implementation progresses. Can I store personal (non-Purdue) data in my Purdue Box account? Storage of personal data in your Purdue Box account is not recommended. It is recommended that you store personal files in a Box account created with a personal email address, not your Purdue account. Purdue Box accounts are subject to Purdue policy as outlined above. Purdue and Box.com administrators can access your data in certain circumstances, and may open files to perform maintenance or as required by policy or law. How do I log in to my Purdue Box account? In a web browser, go to https://purdue.box.com . To sign in, use your Career Account credentials or one-time access token using the Duo app or physical token. Can I still create a free Box account using my Purdue address? No. If you would like a personal Box account, you will need to use a personal, non-Purdue email address. What is the difference between my new Purdue Box account and a non-Purdue account? Purdue Box accounts come with increased storage, larger file upload sizes, the ability to password-protect files you share, and advanced collaboration features. Can I delete my Purdue Box account? No. As a Purdue IT asset, your Purdue Box account will be deleted within the normal cycle of maintenance after you leave the University. Box user accounts are deleted after a user leaves the University. Users cannot delete a Purdue-managed Box account If there are files in your individual account you need to keep and you will be leaving the University, you will need to take action to maintain access to your files before you lose access to your Career Account. To transfer your files to a new or existing personal account, sign in to your Purdue Box account and share the files with another Box account created with a non-Purdue email address, including files others have shared with you. Then from your Purdue Box account, change the permissions of the shared account to owner (not co-owner) for the files you own. The new non-Purdue account will then own all of your content, and files shared with you will be re-shared with the new account. How do I use my “vanity” or “friendly” email address instead of my Career Account address? In most cases, your Box account will be @purdue.edu. To add your “friendly” Purdue email address (your alias address) , add the alias as a linked email to your Box account on your Box Account Settings page. Can I use Box on a mobile device? Yes. Box has clients for most mobile devices. Click the Apps link in the Settings menu to see available downloads. Why can’t I sign in on my mobile device? Some mobile device browsers automatically capitalize the first letter of your username when logging in. This will cause your login to fail. Please make sure your username (Career Account) is entered in all lowercase . What does it mean when Box refers to a file “owner”? All files and folders in Box have owners. This is the account which controls the file or folder permissions. All content in Purdue Enterprise Box will have an enterprise owner (Purdue), and may have a departmental owner (department, college, etc.) or an individual owner. The creator/uploader of the file is the personal owner unless the file is created in a folder owned by another person or department. In those cases, the owner of the folder owns the file. How do I know how much storage I have? Can I increase my storage limit? Individual users are given 5,000 GB (5 Terabytes) of storage at account creation. You can see your current allocation and used space in your Box Account Settings. See Manage Account Settings at Box.com for more information. What is the size limit for files I upload? You can upload files to your account with a limit of 15GB per file. What happens to my Box account when I leave Purdue? Once your Career Account is no longer active, your Box account will be inaccessible. Before you leave Purdue, you will need to share any files you need to retain access to with another Box account using a non-Purdue email address. You must make that address the owner of your files using the Box web interface. This account cannot be a linked account on your Purdue account. When the content is owned by a non-Purdue email address, it will still be accessible via that account when the Purdue account is locked or removed. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=250",
+      "title": "ArticleDet?ID=250",
+      "article_id": "250"
+    }
+  },
+  {
+    "id": "purdue-kb-240",
+    "text": "Title: ArticleDet?ID=240 Overview: This article describes Rclone and how it works with Purdue Box. Instructions: Rclone is a command line tool capable of syncing files and folders to and from Box, along with the ability to view the current folder structure. The application has the ability to mount a Box folder structure, this is a useful feature for a Linux user. The product is open source and actively maintained. Box does not provide a native Linux client for syncing files from Box to the information system. Rclone is the Linux alternative used by many Higher Education institutions. Support for Rclone can be found at the following links: https://rclone.org/box/ https://rclone.org/commands/rclone_mount/ https://rclone.org/overview/ Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=240",
+      "title": "ArticleDet?ID=240",
+      "article_id": "240"
+    }
+  },
+  {
+    "id": "purdue-kb-284",
+    "text": "Title: ArticleDet?ID=284 Overview: The Risque Tickets application is a tool that enables approved campus IT Personnel to submit requests for data network service changes and repairs. This includes requests for activation of data PICs, change of existing service on data PICs, deactivation of service from PICs, and repair of PICs that aren’t functioning properly. A PIC is a Purdue Information Connection and is the network connection similar to a phone jack on a wall. To gain access to the site, please go to Risque and click on the 'Request Additional Permissions' link. The direct website for Risque is https://risque.itap.purdue.edu/ . For more information regarding how to submit various requests in Risque please see this article - What is a PIC? Access is typically limited to those working for an IT group within Purdue. You need to have access to submit a data ticket. Your username and password information is the same as your Purdue career account. Troubleshooting If you are having trouble logging in, please contact risque-admin@lists.purdue.edu . Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=284",
+      "title": "ArticleDet?ID=284",
+      "article_id": "284"
+    }
+  },
+  {
+    "id": "purdue-kb-433",
+    "text": "Title: ArticleDet?ID=433 Overview: URHome is a wireless network broadcast located in the residence halls. It is designed to provide a simulated local network capable of supporting multiple personal devices with the use of a single access key. URHome is intended for gaming systems and other smart connected devices.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=433",
+      "title": "ArticleDet?ID=433",
+      "article_id": "433"
+    }
+  },
+  {
+    "id": "purdue-kb-808",
+    "text": "Title: ArticleDet?ID=808 Overview: This article is intended to address common questions associated with wired connections for users living in the residence halls. For more information on PAL3.0 or Eduroam wireless please see: https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=399 For more information on connecting gaming systems or other connected devices, please see: https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=433 Instructions: Purdue’s wired connection ports are called PIC, which stands for Purdue Internet Connection. PICs provide a faster, more stable connection over wireless options. PICs are labeled using a combination of numbers (typically the room number) and a letter (123-A, for example). Ports labeled with a number and a number (123-1, for example) are legacy telephone lines and are not operable. University’s Residence policy states that each individual living in a residence hall will be given access to a single PIC. Requests for additional PICs above the single PIC per person policy will be denied. Network switches (not provided) may be used if additional data ports are desired. Rooms that include a wireless access point will have a standard wall PIC with an additional PIC located at the bottom of the wireless access point. Access points generally hang on the wall a few feet from the ceiling and are identified with a “Meraki” logo. Ethernet cables (not provided) are used to make a wired network connection from data PICs. Ethernet CAT 5e or 6 is the recommended standard for PIC connections. Cable length is subject to the size of the room; however, generally, a 10-foot cable will be adequate for most applications. Note : Wireless routers should not be used in the residence halls as their wireless broadcast interferes with Purdue IT’s infrastructure. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=808",
+      "title": "ArticleDet?ID=808",
+      "article_id": "808"
+    }
+  },
+  {
+    "id": "purdue-kb-244",
+    "text": "Title: ArticleDet?ID=244 Overview: This article describes what training is available for Purdue Box Instructions: You can find free Box training at Box.com . Box provides recorded and live tutorials on Box features. If you prefer training with an instructor, you can sign up for certain live, online Box training sessions which are scheduled at preset times. The others are self-paced, pre-recorded sessions. The self-paced content covers basic Box functionality and should provide you with enough information to get started. Box recommends users start with the free, self-paced User Essentials training. This course will provide you with training on basic Box functionality. You can find it listed near the bottom of the page linked below. NOTE: You may be required to log into Box to access some of the training. Following along while logged into Box in a separate window is also recommended. You can find Box training at the following link: https://community.box.com/t5/Box-University-Courses/Box-University-User-Courses-Live-amp-Self-Paced/ta-p/57511 Lynda.com also has a number of courses on using Box which are free to Purdue faculty and staff. Please visit https://one.purdue.edu and click on “Professional Tutorials” to access Lynda.com as a Purdue faculty or staff member. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=244",
+      "title": "ArticleDet?ID=244",
+      "article_id": "244"
+    }
+  },
+  {
+    "id": "purdue-kb-249",
+    "text": "Title: ArticleDet?ID=249 Overview: This article describes who is eligible to have a Purdue Box account. Instructions: Due to licensing and regulatory restrictions, Purdue Box is only available to currently-active Purdue faculty, staff, and students. If you believe that you are an eligible user and cannot sign into Purdue Box, please contact the Purdue IT Service Desk by calling 494-4000 or clicking the \"Purdue IT Request\" button. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=249",
+      "title": "ArticleDet?ID=249",
+      "article_id": "249"
+    }
+  },
+  {
+    "id": "purdue-kb-242",
+    "text": "Title: ArticleDet?ID=242 Overview: This article describes why a Purdue Box collaborators cannot see my files Instructions: This article provides simple troubleshooting steps to address common problems with file access in Box. Why can't my collaborators see my files in Box? And, why can't I see my collaborators' files? There are three common scenarios where a user may not see files shared from or with a Purdue Box account. Scenario 1 The file was shared with your or your collaborator's alternate email address, and Box doesn't have that address on record. This happens when a user has a 'friendly' email address in addition to their primary account email address. At Purdue, your Career Account email is your primary Box address. So, for example, the file may be shared with myfullname@purdue.edu instead of mycareer@purdue.edu. This can also be true of users at other institutions. Solution 1: Re-share the file with the other person's correct Box account. At Purdue, this would be @purdue.edu in most cases. Solution 2: Add the 'friendly' email address as a 'Linked Email Address' to the Box account which can't access the files. To do this, follow the steps below: Click the 'Account' button in the upper right corner of the Box web interface. Click 'Account Settings'. Click 'Add Email'. Add your alternate, 'friendly' email address. Scenario 2 You may have clicked on a direct link to the file but are not logged into Box. Box will attempt to open the file but will not know you are authorized to use Box. This can occur even if you are using Box Drive on your computer to view other files. Solution: First, log into Box with your existing Box account, or create an account and log in if you do not already have one. You must accept the Purdue Terms of Service the first time you log in. After this is complete, click the link in the email. If you do not see the Terms of Service, check your Box Notifications in the left-hand menu pane. If you are an active Purdue employee, you can create a Box account by visiting https://purdue.box.com . Click 'Continue' and login using your Career Account credentials and two-factor authentication. If you are not an active Purdue employee, you can access Box by visiting https://www.box.com . You will need to create a normal Box free (or paid) account to access the files. Non-Purdue users must still accept the Purdue Terms of Service to access files shared from a Purdue account. Scenario 3 You are logged into Box but were not able to acknowledge the Purdue Terms of Service. You must agree to these terms before you will be able to access Purdue Box. Certain browser settings can interfere with the Terms of Service notification. Solution: Check the 'Notifications' section of your Box.com account for the Terms of Service message. Read and Accept the Terms of Service, then try to view the file again. If may be necessary for the collaborator who shared the file with you to share it again. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=242",
+      "title": "ArticleDet?ID=242",
+      "article_id": "242"
+    }
+  },
+  {
+    "id": "purdue-kb-248",
+    "text": "Title: ArticleDet?ID=248 Overview: This article describes why a person cannot sign into Purdue Box on my mobile device. Instructions: You may receive an “authentication failed” message when you sign into Purdue Box on a mobile device. This can be caused by the browser (Safari, Samsung Internet, Opera, Chrome, etc.) automatically capitalizing the first letter of your career account username. You can work around the issue by checking your username (Career Account) before clicking “Login”. Change any capital letters to lowercase. Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=248",
+      "title": "ArticleDet?ID=248",
+      "article_id": "248"
+    }
+  },
+  {
+    "id": "purdue-kb-229",
+    "text": "Title: ArticleDet?ID=229 Overview: This article describes how to find the UNC path for my mapped drive. Instructions: UNC stands for 'Unified Naming Convention' and is a filename format used to specify the location of files, folders and resources on a network. These steps are relevant for all Windows operating system versions. Click the 'Windows' button on the taskbar Scroll down through the Windows menu and click on 'Windows System' Navigate to Search Menu on Task Bar Type on 'Command Prompt' In the command Prompt, type \"Net Use\" (no quotes) You should see a table displaying your mapped drives arranged by letter. One of the column headers of this table should read 'Remote'. The values in this column are the UNC paths that correspond to the drive letter in column 'Local'. To copy a value from this table, use your mouse pointer to click and drag across the value to select it. Right-click on the highlighted value(s) to copy. The value will cease to be highlighted, but the value has been copied to the Windows Clipboard. You may now right-click and select 'Paste' in the text application of your choice such as Notepad, Word or Outlook to paste the desired value(s). UNC stands for 'Unified Naming Convention' and is a filename format used to specify the location of files, folders and resources on a network. These steps are relevant for all Windows operating system versions. Click the 'Windows' button on the taskbar ​​​​​​​ Scroll down through the Windows menu and click on 'Windows System' Click on 'Command Prompt' In the command Prompt, type \"Net Use\" (no quotes) You should see a table displaying your mapped drives arranged by letter. One of the column headers of this table should read 'Remote'. The values in this column are the UNC paths that correspond to the drive letter in column 'Local'. To copy a value from this table, use your mouse pointer to click and drag across the value to select it. Right-click on the highlighted value(s) to copy. The value will cease to be highlighted, but the value has been copied to the Windows Clipboard. You may now right-click and select 'Paste' in the text application of your choice such as Notepad, Word or Outlook to paste the desired value(s). Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=229",
+      "title": "ArticleDet?ID=229",
+      "article_id": "229"
+    }
+  },
+  {
+    "id": "purdue-kb-454",
+    "text": "Title: ArticleDet?ID=454 Overview: The Purdue login system utilizes 2-Factor Authentication protections to validate log ins and access. The first factor is your career account username (alias) and career account password. This is commonly referred to as Purdue Web SSO (Single Sign On) for web applications. The second factor is commonly the Duo Universal Prompt on your smartphone and provides several methods to verify your identity.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=454",
+      "title": "ArticleDet?ID=454",
+      "article_id": "454"
+    }
+  },
+  {
+    "id": "purdue-kb-1091",
+    "text": "Title: ArticleDet?ID=1091 Overview: This article provides instructions on how to create an invitation for an end user to request an InCommon Code Signing Certificate. Instructions: Technician must have access to the Team Dynamix (TDX) ticketing system and Setigo/InCommon Certificate Manager with elevated privileges. Additionally, on the TDX ticket the requester must provide a departmental email address that will receive the invitation to create the code signing certificate. Sign into your SectiGo/InCommon Certificate Manager portal ( https://cert-manager.com/customer/InCommon ) Click on the hamburger (three horizontal lines) in the upper left corner Click on Certificates Click on Code Signing Certificates The system will list all code signing certificates in the system Click on Invitations in the upper right The system will now list all the outstanding invitations (ones that the user did not respond to) The system will prompt you to enter an email address that the invitation to create the code signing certificate will be sent to The fields labeled as Enrollment Endpoint, Account and Profile should be left as defaults Click on Send to send the invitation to the email you entered Close out of the TDX ticket and tell the requester that a code signing certificate request invitation has been sent to their email. The requester will need to follow the instructions in the email to claim the certificate Still need help? Click the 'Purdue IT Request' button to start a ticket.",
+    "metadata": {
+      "source": "https://service.purdue.edu/TDClient/32/Purdue/KB/ArticleDet?ID=1091",
+      "title": "ArticleDet?ID=1091",
+      "article_id": "1091"
+    }
+  }
+]

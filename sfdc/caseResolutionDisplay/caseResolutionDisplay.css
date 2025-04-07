@@ -1,0 +1,110 @@
+/* Main container styles */
+.resolution-container .container {
+    border: 1px solid #d8dde6;
+    border-radius: 0.25rem;
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+}
+
+/* Success message styles */
+.resolution-container .success {
+    color: rgb(2, 126, 70);
+    border-left: 5px solid rgb(2, 126, 70);
+    background-color: rgb(230, 255, 237);
+    padding: 0.75rem;
+    margin-top: 0.75rem;
+}
+
+/* Pre tag styles for better readability */
+.resolution-container pre {
+    white-space: pre-wrap;
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 0.875rem;
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem;
+}
+
+/* Ensure headings match SLDS style */
+.resolution-container h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: rgb(22, 50, 92);
+}
+
+/* Fix HTML lists rendering */
+.resolution-container ul,
+.resolution-container .container ul,
+.resolution-container .success ul {
+    list-style-type: disc !important;
+    margin-left: 1.5rem !important;
+    margin-bottom: 1rem !important;
+    display: block !important;
+}
+
+.resolution-container li,
+.resolution-container .container li,
+.resolution-container .success li {
+    display: list-item !important;
+    margin-bottom: 0.5rem !important;
+    list-style-position: outside !important;
+}
+
+/* Fix for lists inside pre tags */
+.resolution-container pre ul {
+    margin: 0.5rem 0 0.5rem 1.5rem !important;
+    padding-left: 1rem !important;
+    list-style-type: disc !important;
+}
+
+.resolution-container pre li {
+    display: list-item !important;
+    list-style: disc outside !important;
+}
+
+/* Make strong tags actually bold */
+.resolution-container strong,
+.resolution-container b,
+.resolution-container .success b {
+    font-weight: 700 !important;
+}
+
+/* Add spacing between paragraphs */
+.resolution-container p {
+    margin-bottom: 0.75rem;
+}
+
+/* Fix horizontal rule */
+.resolution-container hr {
+    margin: 1rem 0;
+    border-top: 1px solid #d8dde6;
+    border-bottom: none;
+}
+
+/* Add better spacing for description box */
+.description-box {
+    line-height: 1.5;
+    padding: 0.75rem;
+}
+
+/* Enhance card styling */
+.slds-box {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Better spacing for content areas */
+.slds-p-around_medium {
+    padding: 1rem;
+}
+
+/* Enhancement for loading state */
+.spinner-container {
+    height: 5rem;
+}
+
+/* Error message enhancements */
+.slds-notify_alert {
+    padding: 0.75rem;
+    margin: 0.75rem 0;
+}

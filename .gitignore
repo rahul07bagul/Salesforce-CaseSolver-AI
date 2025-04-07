@@ -1,0 +1,10 @@
+/python_server/.env
+/python_server/sfenv/
+/python_server/vector_db/
+/python_server/data/purdue_kb_articles.json
+/python_server/data/purdue_kb_cleaned.json
+/python_server/web_scrapper.py
+/python_server/extract_data.py
+/python_server/models/__pycache__
+/python_server/routes/__pycache__
+/python_server/services/__pycache__

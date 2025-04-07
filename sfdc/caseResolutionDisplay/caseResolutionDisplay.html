@@ -1,0 +1,91 @@
+<template>
+    <lightning-card title="Case Resolution Suggester" icon-name="standard:solution">
+        <div class="slds-p-around_medium">
+            <!-- Case Details Section -->
+            <div class="slds-box slds-m-bottom_medium slds-theme_default">
+                <template lwc:if={caseRecord.data}>
+                    <div class="slds-grid slds-grid_vertical">
+                        <div class="slds-col">
+                            <div class="slds-media">
+                                <div class="slds-media__figure">
+                                    <lightning-icon icon-name="standard:case" size="small"></lightning-icon>
+                                </div>
+                                <div class="slds-media__body">
+                                    <h2 class="slds-text-heading_medium slds-m-bottom_x-small">{subject}</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slds-col slds-m-top_small">
+                            <div class="slds-text-title_caps slds-m-bottom_xx-small">Case Description</div>
+                            <div class="slds-box slds-box_xx-small slds-theme_shade description-box slds-p-around_small">
+                                <lightning-formatted-rich-text value={description}></lightning-formatted-rich-text>
+                            </div>
+                        </div>
+                    </div>
+                </template>
+                <template if:true={caseRecord.error}>
+                    <div class="slds-notify slds-notify_alert slds-theme_alert-texture slds-theme_error" role="alert">
+                        <span class="slds-assistive-text">Error</span>
+                        <lightning-icon icon-name="utility:error" size="small" class="slds-m-right_x-small"></lightning-icon>
+                        <h2>Error loading case details:</h2>
+                        <p>{caseRecord.error}</p>
+                    </div>
+                </template>
+            </div>
+
+            <!-- Action Area -->
+            <div class="slds-grid slds-grid_align-center slds-m-bottom_medium">
+                <lightning-button
+                    label="Get Suggested Resolution"
+                    variant="brand"
+                    icon-name="utility:einstein"
+                    icon-position="left"
+                    onclick={handleGetResolutionClick}
+                    disabled={isLoading}
+                    class="slds-m-right_small">
+                </lightning-button>
+            </div>
+
+            <!-- Loading Spinner -->
+            <template if:true={isLoading}>
+                <div class="slds-is-relative slds-m-vertical_medium slds-align_absolute-center spinner-container">
+                    <div class="slds-p-around_medium slds-text-align_center">
+                        <lightning-spinner alternative-text="Loading resolution..." size="medium"></lightning-spinner>
+                        <p class="slds-text-body_small slds-m-top_small">Analyzing case details and generating resolution...</p>
+                    </div>
+                </div>
+            </template>
+
+            <!-- Error Display -->
+            <template if:true={error}>
+                <div class="slds-notify slds-notify_alert slds-theme_alert-texture slds-theme_error" role="alert">
+                    <span class="slds-assistive-text">Error</span>
+                    <lightning-icon icon-name="utility:error" size="small" class="slds-m-right_x-small"></lightning-icon>
+                    <h2>An error occurred:</h2>
+                    <p>{error}</p>
+                </div>
+            </template>
+
+            <!-- Resolution Display Area with Card Format -->
+            <template if:true={htmlResult}>
+                <div class="slds-box slds-theme_default slds-m-top_medium">
+                    <div class="slds-grid slds-grid_vertical">
+                        <div class="slds-col">
+                            <div class="slds-media">
+                                <div class="slds-media__figure">
+                                    <lightning-icon icon-name="standard:feedback" size="small"></lightning-icon>
+                                </div>
+                                <div class="slds-media__body">
+                                    <h2 class="slds-text-heading_medium slds-m-bottom_x-small">Suggested Resolution</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slds-col slds-m-top_small">
+                            <div class="resolution-container" lwc:dom="manual"></div>
+                        </div>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>
