@@ -27,6 +27,7 @@ class ChromaDBHandler:
         chunks = text_splitter.split_text(text)
         return chunks
 
+    # if the text is too long, split it into chunks and store them separately
     def store_embeddings(self, chunks, metadatas):
         try:
             embeddings = [self.embedding_model.generate_embedding(chunk) for chunk in chunks]
@@ -35,6 +36,7 @@ class ChromaDBHandler:
         except Exception as e:
             raise RuntimeError(e)
     
+    # if there are no chunks, store the text directly
     def store_embeddings(self, content, metadatas):
         try:
             embeddings = [self.embedding_model.generate_embedding(content)]

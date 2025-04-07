@@ -62,7 +62,7 @@ class DataPipelineService:
             self.run()
             
             print("Step 1: Processing files and storing in document database...")
-            # self.process_files(file_path, file_type)
+            self.process_files(file_path, file_type)
             print("Step 1 completed successfully.")
             
             print("Step 2: Creating vector embeddings...")
