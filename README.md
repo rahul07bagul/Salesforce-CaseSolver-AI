@@ -11,6 +11,12 @@ This application connects your Salesforce instance with an AI-powered backend th
 
 The system uses ChromaDB as a vector database and OpenAI embeddings to effectively retrieve contextually relevant information from your knowledge articles.
 
+## Demo
+![Design](https://github.com/rahul07bagul/Salesforce-CaseSolver-AI/blob/main/assets/demo.gif)
+
+## Architecture
+![Design](https://github.com/rahul07bagul/Salesforce-CaseSolver-AI/blob/main/assets/sfdc_case_resolver_design.png)
+
 ## Demo Implementation
 The current implementation demonstrates the system using:
 - Knowledge articles scraped from Purdue University
