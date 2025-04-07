@@ -2,6 +2,15 @@
 
 An intelligent case resolution system for Salesforce that leverages AI and Retrieval Augmented Generation (RAG) to provide solutions based on your knowledge articles.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/ChromaDB-9B59B6?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini">
+</p>
+
 ## Overview
 This application connects your Salesforce instance with an AI-powered backend that:
 1. Receives case data from Salesforce
